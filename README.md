@@ -1,59 +1,61 @@
 # Planora
-
-Smart To-Do List Manager using JavaScript and MySQL
+### Smart To-Do List and Task Management System
 
 ## Project Overview
+Planora is a web-based application designed to help users organize and manage their daily tasks efficiently. The system provides task creation, task tracking, reminders, and progress management features to improve productivity and time management.
 
-Planora is a smart task management system designed to help users organize and manage daily tasks efficiently. This application helps users create tasks, track progress, and complete daily activities on time.
+The project is being developed using JavaScript as the backend logic and MySQL as the database management system.
 
-The project is developed using JavaScript and MySQL for efficient task management.
+## Current Development Phase
 
-## Purpose
+### Completed Features
+- User Interface Design
+- Responsive Layout using HTML and CSS
+- Task Creation Module
+- Task Edit and Delete Options
+- GitHub Repository Setup
+- Navigation and Task Management Structure
 
-The main purpose of this project is to help users manage daily tasks, improve productivity, and organize work in a simple way.
+### In Progress
+- MySQL Database Integration
+- Task Data Storage
+- User Login Authentication
+- Reminder Notification System
 
-## Features
+## Technologies Used
 
-- Add Daily Tasks
-- Edit Tasks
-- Delete Tasks
-- Mark Tasks as Completed
-- Task Reminder
-- User-Friendly Interface
-- Daily Task Management
-
-## Frontend
-
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
 
-## Backend
-
+### Backend
 - JavaScript (Node.js)
 
-## Database
-
+### Database
 - MySQL
 
-## Advantages
+### Version Control
+- Git
+- GitHub
 
-- Helps organize daily tasks
-- Improves time management
-- Increases productivity
-- Easy and simple to use
+## Objectives
+- Help users organize daily tasks
+- Improve productivity and time management
+- Track completed and pending tasks
+- Provide an easy-to-use task management system
+- Reduce missed deadlines and forgotten tasks
 
 ## Future Enhancements
-
 - Reminder Notifications
-- Dark Mode
-- Task Analytics
+- Dark Mode Support
 - Mobile-Friendly Design
+- Task Priority Management
+- Calendar Integration
+- Daily Progress Analytics
 
 ## Author
-
 **Nandhini Devi S**
 
 ## Status
-
-Development Phase: Planning Completed | UI Design in Progress
+**Development Phase: UI Design Completed | Database Integration in Progress**
